@@ -79,10 +79,3 @@ Contributions are welcome! If you have ideas for enhancements or additional feat
 ----------
 
 This project is licensed under the MIT License.
-
-🙏 Acknowledgments
-------------------
-
-*   Beautiful Soup Documentation
-*   Requests Documentation
-*   Pandas Documentation
